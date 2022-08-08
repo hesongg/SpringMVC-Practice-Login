@@ -9,4 +9,4 @@
 
   
 #### 강의 내용 정리
-https://github.com/hesongg/spring-study/tree/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%EA%B0%95%EC%9D%98/Spring_MVC_2
+https://github.com/hesongg/spring-study/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%EA%B0%95%EC%9D%98/Spring_MVC_2/06_%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%B2%98%EB%A6%AC1_%EC%BF%A0%ED%82%A4%2C%EC%84%B8%EC%85%98.md
